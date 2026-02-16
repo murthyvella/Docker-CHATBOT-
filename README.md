@@ -1,1 +1,4 @@
-<img width="447" height="385" alt="image" src="https://github.com/user-attachments/assets/67e179fa-7a1d-4d96-bef5-67d3c2992d0d" />
+# 💖 Lovely Chatbot 💬
+<img width="1360" height="685" alt="image" src="https://github.com/user-attachments/assets/2b4d3e11-e57a-4bd0-b1df-56cf3c9190a6" />
+
+
